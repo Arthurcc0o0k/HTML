@@ -23,7 +23,7 @@ BASE_TEMPLATE = """
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Minecraft — Guia Oficial MASTER + v2 BRANCH</title>
     <style>
-      :root{--bg:#0b1220;--card:#0f1724;--accent:#ffcc00;--muted:#9aa6b2;--glass:rgba(255,255,255,0.03)}
+      :root{--bg:#0b1220;--card:#0f1724;--accent:#00ff00;--muted:#9aa6b2;--glass:rgba(255,255,255,0.03)}
       body{font-family:Inter,Segoe UI,Arial;background:linear-gradient(180deg,#071023 0%,#081226 100%);color:#e6eef6;margin:0}
       .nav{display:flex;gap:12px;align-items:center;padding:18px 24px;background:linear-gradient(90deg,rgba(0,0,0,0.1),transparent)}
       .brand{font-weight:700;color:var(--accent)}
