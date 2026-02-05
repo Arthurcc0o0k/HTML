@@ -21,7 +21,7 @@ BASE_TEMPLATE = """
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Minecraft — Guia Oficial MASTER</title>
+    <title>Minecraft — Guia Oficial MASTER + v2 BRANCH</title>
     <style>
       :root{--bg:#0b1220;--card:#0f1724;--accent:#ffcc00;--muted:#9aa6b2;--glass:rgba(255,255,255,0.03)}
       body{font-family:Inter,Segoe UI,Arial;background:linear-gradient(180deg,#071023 0%,#081226 100%);color:#e6eef6;margin:0}
