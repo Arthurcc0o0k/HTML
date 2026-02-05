@@ -1,5 +1,5 @@
 """
-Site simples em Flask sobre Minecraft (arquivo único).
+Site completo em Flask sobre Minecraft com múltiplas páginas e temas.
 
 Instalação:
     pip install flask
