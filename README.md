@@ -1,4 +1,4 @@
-# Portal de Jogos (exemplo)
+# Portal de Jogos
 
 Site estático de exemplo sobre jogos.
 
